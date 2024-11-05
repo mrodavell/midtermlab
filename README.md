@@ -6,7 +6,7 @@
 
 ## Description:
 
-### In this midterm lab exam you are given a task to implement a graphical design of a user profile page. 
+### In this midterm lab exam you are given a task to implement a graphical design of a user profile page. The design is located on the assets folder named "UI Design.png".
 
 ### For this instance only, you should only use the App.js component to write your code. You must also change the name of John Doe to your name.
 
@@ -49,3 +49,29 @@
 ## Assets:
 
 ### 1. avatar.png located on the assets folder
+
+## Icons:
+
+### Name of icons use
+
+#### 1. arrow-left
+
+#### 2. account
+
+#### 3. bell
+
+#### 4. plus
+
+#### 5. check-circle
+
+#### 6. account-edit
+
+#### 7. image
+
+#### 8. account-cog
+
+### How to use icons example
+
+#### import { MaterialCommunityIcons } from ‘@expo/vector-icons’;
+
+#### <MaterialCommunityIcons name=“arrow-left” size={20} color=“black” />
