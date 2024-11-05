@@ -34,7 +34,7 @@
 
 ### 3. The use of internet is only allowed when downloading or cloning this repository
 
-### 4. Submission of your code should be done through this google form: https://forms.gle/8UyGSZEaA74kEdy77
+### 4. Submission of your code should be done through this google form: https://forms.gle/Fhr4tHY3EhkaSAyPA
 
 # Assets and Colors:
 
