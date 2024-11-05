@@ -49,3 +49,29 @@
 ## Assets:
 
 ### 1. avatar.png located on the assets folder
+
+## Icons:
+
+### Name of icons use
+
+#### 1. arrow-left
+
+#### 2. account
+
+#### 3. bell
+
+#### 4. plus
+
+#### 5. check-circle
+
+#### 6. account-edit
+
+#### 7. image
+
+#### 8. account-cog
+
+### How to use icons example
+
+#### import { MaterialCommunityIcons } from ‘@expo/vector-icons’;
+
+#### <MaterialCommunityIcons name=“arrow-left” size={20} color=“black” />
